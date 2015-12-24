@@ -2,6 +2,7 @@ name: Progress
 favicon: null
 layout_spectrum: 0.9103735398966819
 typography_spectrum: 0.35896529885940254
+title: Progress
 cta:
   domain: null
   bucket: null
