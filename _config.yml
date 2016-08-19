@@ -1,29 +1,41 @@
-name: Progress
-favicon: null
-layout_spectrum: 0.9103735398966819
-typography_spectrum: 0.35896529885940254
 title: Progress
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3646617
+  brandStrength: 0.5849617735948414
+  lightness: 0.1553885
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5849617735948414
-  lightness: 0.0913051669485867
-  saturation: 0.36621971311978996
-  rhythmicContrast: 0.7979127869475633
-purpose: []
+  rhythmicContrast: 0.8489975
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Progress
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2399749
+layout_spectrum: 0.9103735398966819
